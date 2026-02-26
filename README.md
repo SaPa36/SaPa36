@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Md.%20Nur%20Sapa&fontSize=70" />
+  <img src="banner.jpg" width="100%"  alt="Md. Nur Sapa Banner" />
 </div>
 
 ## 👨‍💻 About Me
