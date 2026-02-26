@@ -48,7 +48,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaPa36&show_icons=true&theme=tokyonight&cache_seconds=1800&include_all_commits=true&count_private=true" alt="SaPa36's Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaPa36&theme=tokyonight&cache_seconds=1800" alt="SaPa36's Streak" />
 </p>
 
