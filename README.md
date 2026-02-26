@@ -55,11 +55,22 @@
 ---
 
 ## 🤝 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/your-profile-id" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" height="30" /></a>
-<a href="mailto:nursapa2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" height="30" /></a>
-<a href="https://your-portfolio.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white" height="30" /></a>
-</p>
+<div align="center">
+
+<a href="https://www.facebook.com/share/1DUEqJzjzT/?mibextid=wwXIfr" target="blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" />
+</a>
+<a href="https://wa.me/8801747392404" target="blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" />
+</a>
+<a href="mailto:nursapa2001@gmail.com" target="blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+</a>
+<a href="https://sapa-portfolio7.netlify.app/" target="blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" />
+</a>
+
+</div>
 
 ---
 
