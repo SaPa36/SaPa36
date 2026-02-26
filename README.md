@@ -52,6 +52,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaPa36&theme=tokyonight&hide_border=true" alt="SaPa36's Streak" />
 </p>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaPa36&show_icons=true&theme=dark&cache_seconds=1800" alt="SaPa36 Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaPa36&theme=dark" alt="SaPa36 Streak" />
+</p>
+
+
 ---
 
 ## 🤝 Connect With Me
@@ -78,3 +86,8 @@
 - ⚛️ React.js & Frontend Architecture
 - 🎨 UI/UX Design & Figma
 - ☕ Problem Solving with JavaScript
+
+
+
+
+
