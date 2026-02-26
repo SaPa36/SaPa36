@@ -84,11 +84,7 @@
 
 <div align="center">
 
-## 📈 Activity Overview
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaPa36&theme=github-compact" width="100%" alt="Contribution Graph" />
-
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=footer" width="100%" />
