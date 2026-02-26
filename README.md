@@ -21,9 +21,28 @@
 
 ## ⚒️ Tech Stack
 
+### 🎨 Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma" />
+  </a>
+</p>
+
+> **Libraries:** Tanstack Query | Recharts | React Hook Form | Framer Motion 
+
+### ⚙️ Backend & Authentication
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,auth0" />
+  </a>
+</p>
+
+> **Security:** JSON Web Token (JWT)
+
+### 🔧 Tools & Deployment
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman" />
   </a>
 </p>
 
