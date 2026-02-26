@@ -18,39 +18,41 @@
 - 🤝 **Collaborating:** Open to MERN stack projects and Frontend roles.
 
 ---
-
 ## ⚒️ Tech Stack
+<div align="center">
 
-### 🎨 Frontend
-| | | | | |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html" width="40" /> | <img src="https://skillicons.dev/icons?i=css" width="40" /> | <img src="https://skillicons.dev/icons?i=js" width="40" /> | <img src="https://skillicons.dev/icons?i=react" width="40" /> | <img src="https://skillicons.dev/icons?i=tailwind" width="40" /> |
-| HTML | CSS | JavaScript | React | Tailwind |
 
-> **Libraries:** Tanstack Query • Recharts • React Hook Form • Framer Motion 
 
-### ⚙️ Backend & Database
-| | | | |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=nodejs" width="40" /> | <img src="https://skillicons.dev/icons?i=express" width="40" /> | <img src="https://skillicons.dev/icons?i=mongodb" width="40" /> | <img src="https://skillicons.dev/icons?i=firebase" width="40" /> |
-| Node.js | Express | MongoDB | Firebase |
+| | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=html" width="40" /> | <img src="https://skillicons.dev/icons?i=css" width="40" /> | <img src="https://skillicons.dev/icons?i=js" width="40" /> | <img src="https://skillicons.dev/icons?i=react" width="40" /> | <img src="https://skillicons.dev/icons?i=nextjs" width="40" /> | <img src="https://skillicons.dev/icons?i=tailwind" width="40" /> |
+| HTML | CSS | JavaScript | React | Next.js | Tailwind |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="40" /> | <img src="https://skillicons.dev/icons?i=express" width="40" /> | <img src="https://skillicons.dev/icons?i=mongodb" width="40" /> | <img src="https://skillicons.dev/icons?i=firebase" width="40" /> | <img src="https://skillicons.dev/icons?i=postgresql" width="40" /> | <img src="https://skillicons.dev/icons?i=prisma" width="40" /> |
+| Node.js | Express | MongoDB | Firebase | PostgreSQL | Prisma |
+| <img src="https://skillicons.dev/icons?i=git" width="40" /> | <img src="https://skillicons.dev/icons?i=github" width="40" /> | <img src="https://skillicons.dev/icons?i=vscode" width="40" /> | <img src="https://skillicons.dev/icons?i=postman" width="40" /> | <img src="https://skillicons.dev/icons?i=netlify" width="40" /> | <img src="https://skillicons.dev/icons?i=vercel" width="40" /> |
+| Git | GitHub | VS Code | Postman | Netlify | Vercel |
 
-> **Security & Auth:** Firebase Auth • JSON Web Token (JWT)
+<br />
 
-### 🔧 Tools & Deployment
-| | | | | |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=git" width="40" /> | <img src="https://skillicons.dev/icons?i=github" width="40" /> | <img src="https://skillicons.dev/icons?i=vscode" width="40" /> | <img src="https://skillicons.dev/icons?i=netlify" width="40" /> | <img src="https://skillicons.dev/icons?i=vercel" width="40" /> |
-| Git | GitHub | VS Code | Netlify | Vercel |
+> **Libraries & Auth:** Tanstack Query • Recharts • React Hook Form • Framer Motion • Firebase Auth • JWT
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 
+<div align="center">
+
+
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaPa36&theme=tokyonight&hide_border=true" alt="SaPa36's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaPa36&show_icons=true&theme=tokyonight&cache_seconds=1800&include_all_commits=true&count_private=true" alt="SaPa36's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaPa36&theme=tokyonight&cache_seconds=1800" alt="SaPa36's Streak" />
 </p>
+
+</div>
 
 
 ---
