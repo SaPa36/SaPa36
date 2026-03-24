@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-👋 **Hi, I'm a passionate **Frontend Developer** and **MERN Stack Specialist** from Dhaka, Bangladesh 🇧🇩. 
+👋 **Hi,I'm Md. Nur Sapa, I'm a passionate **Frontend Developer** and **MERN Stack Specialist** from Dhaka, Bangladesh 🇧🇩. 
 
 - 🔭 I’m currently working as a **Frontend Developer Intern** at **HR Soft BD**.
 - 🌱 I’m currently diving deep into **Next.js** and **Advanced Backend Patterns**.
